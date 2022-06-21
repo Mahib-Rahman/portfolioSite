@@ -12,7 +12,7 @@ document.write(`
                     <h2>About</h2>
                     <p>
                         Made a binary LED Counter with Arduino.
-                        Counter is made of 44 LEDs (4 bits).
+                        Counter is made of 4 LEDs (4 bits).
                         Thus: counter goes from 1 to 15
                     </p>
                 </div>

@@ -9,11 +9,12 @@ document.write(`
                     </svg>
                 </div>
                 <div>
-                    <h2>Featured title</h2>
+                    <h2>About</h2>
                     <p>
-                        Paragraph of text beneath the heading to explain the
-                        heading. We'll add onto it with another sentence and
-                        probably just keep going until we run out of words.
+                        Learned to use LCD screen with Arduino and read the
+                        voltage from the pins on the breadboard. Used the
+                        voltage reading from the pins and displayed it on 
+                        the LCD screen, essentially making a voltmeter.
                     </p>
                 </div>
             </div>
@@ -24,13 +25,11 @@ document.write(`
                     </svg>
                 </div>
                 <div>
-                    <h2>Featured title</h2>
+                    <h2>Image</h2>
                     <p>
-                        Paragraph of text beneath the heading to explain the
-                        heading. We'll add onto it with another sentence and
-                        probably just keep going until we run out of words.
+                        <img src="./proj2/Voltmeter.jpg" alt="Voltmeter using Arduino" width="300">
                     </p>
-                    <a href="#" class="btn btn-primary">
+                    <a href="https://github.com/Mahib7009/VoltmeterWithLCD" class="btn btn-primary">
                         View Project On Github
                     </a>
                 </div>
@@ -42,13 +41,14 @@ document.write(`
                     </svg>
                 </div>
                 <div>
-                    <h2>Featured title</h2>
+                    <h2>Code</h2>
                     <p>
-                        Paragraph of text beneath the heading to explain the
-                        heading. We'll add onto it with another sentence and
-                        probably just keep going until we run out of words.
+                        First hooked up the LCD screed with Arduino using all
+                        the required pins. Then red in the voltage value using
+                        an empty analog pin on the arduino. Then calculated the 
+                        and displayed it on the screen.
                     </p>
-                    <a href="#" class="btn btn-primary">
+                    <a href="https://github.com/Mahib7009/VoltmeterWithLCD/blob/main/voltmeterWithLCD.ino" class="btn btn-primary">
                         View code
                     </a>
                 </div>
