@@ -43,9 +43,8 @@ document.write(`
                     <p>
                         Wrote multiple functions to handle the logistics
                         of the game including a scoreboard that keeps
-                        track of the player's wins. Added functionality 
-                        to the game that lets the 2 players take turns 
-                        going first.
+                        track of the player's wins. Designed the game 
+                        such that the 2 players take turns going first.
                     </p>
                     <a href="https://github.com/Mahib7009/Tic-Tac-Toe" class="btn btn-primary">
                         View code

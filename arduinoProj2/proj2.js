@@ -44,9 +44,9 @@ document.write(`
                     <h2>Code</h2>
                     <p>
                         First hooked up the LCD screed with Arduino using all
-                        the required pins. Then red in the voltage value using
+                        the required pins. Then read in the voltage value using
                         an empty analog pin on the arduino. Then calculated the 
-                        and displayed it on the screen.
+                        voltage and displayed it on the screen.
                     </p>
                     <a href="https://github.com/Mahib7009/VoltmeterWithLCD/blob/main/voltmeterWithLCD.ino" class="btn btn-primary">
                         View code
