@@ -17,8 +17,8 @@ document.write(`
                         Below are the schematic and the physical circuit:  
                         
                     </p>
-                    <img src="./AnalogComp/pic1.jpg" alt="Fisrst pic of project" width="300">
-                    <img src="./AnalogComp/pic2.jpg" alt="Fisrst pic of project" width="250">
+                    <img src="./AnalogComp/pic1.jpg" alt="Schematic" width="300">
+                    <img src="./AnalogComp/pic2.jpg" alt="Physical circuit" width="250">
                 </div>
             </div>
             <div class="col d-flex align-items-start">
@@ -41,7 +41,7 @@ document.write(`
                         We can model different responces. The picture below shows the 
                         oscilloscope measuring the "overdamped" responce.
                     </p>
-                    <img src="./AnalogComp/pic3.jpg" alt="second pic of project" width="300">
+                    <img src="./AnalogComp/pic3.jpg" alt="Oscilloscope and Physical Setup" width="300">
                 </div>
             </div>
             <div class="col d-flex align-items-start">
@@ -54,11 +54,11 @@ document.write(`
                     <h2>Why</h2>
                     <p>
                     Given any second order differential equation, this circuit is able to model
-                    its solution using voltage.The picture below shows the Ltspice simulation 
+                    its solution using voltage.The picture below shows the LtSpice simulation 
                     and an oscilloscope measuring the "underrdamped" responce of the circuit.
                     </p>
-                    <img src="./AnalogComp/pic4.jpg" alt="temporary setup" width="300">
-                    <img src="./AnalogComp/pic5.jpg" alt="temporary setup" width="300">
+                    <img src="./AnalogComp/pic4.jpg" alt="LtSpice Simulation" width="300">
+                    <img src="./AnalogComp/pic5.jpg" alt="Physical Simulation" width="300">
                 </div>
             </div>
         </div>
