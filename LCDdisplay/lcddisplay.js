@@ -27,7 +27,7 @@ document.write(`
                     </svg>
                 </div>
                 <div>
-                    <h2>Procsee</h2>
+                    <h2>Process</h2>
                     <p>
                         I took apart the All-in-one and isolated the LCD screen.
                         I then got an LCD controller and power supply that were 

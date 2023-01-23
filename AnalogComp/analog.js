@@ -28,7 +28,7 @@ document.write(`
                     </svg>
                 </div>
                 <div>
-                    <h2>Procsee</h2>
+                    <h2>Process</h2>
                     <p>
                         Used an oscilloscope to measure the <b>Output Voltage</b>
                         which is a solution to the second order differential 
