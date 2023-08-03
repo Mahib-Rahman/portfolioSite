@@ -27,7 +27,7 @@ document.write(`
                     <p>
                         <img src="./tttCSproj/TTTimg.png" alt="Tic Tac Toe 2-player game view" width="300">    
                     </p>
-                    <a href="https://mahib7009.github.io/Tic-Tac-Toe/" class="btn btn-primary">
+                    <a href="https://mahib-rahman.github.io/Tic-Tac-Toe/" class="btn btn-primary">
                         View Website
                     </a>
                 </div>
@@ -46,7 +46,7 @@ document.write(`
                         track of the player's wins. Designed the game 
                         such that the 2 players take turns going first.
                     </p>
-                    <a href="https://github.com/Mahib7009/Tic-Tac-Toe" class="btn btn-primary">
+                    <a href="https://github.com/Mahib-Rahman/Tic-Tac-Toe" class="btn btn-primary">
                         View code
                     </a>
                 </div>
