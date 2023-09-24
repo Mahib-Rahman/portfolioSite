@@ -13,8 +13,9 @@ document.write(`
                 <div>
                     <h2>About</h2>
                     <p>
-                        Digilent Basys 3 Artix-7 Fpga Trainer Board
-                        Coming Soon...  
+                        Programmed a Digilent Basys 3 Artix-7 Fpga Trainer Board
+                        to send chosen frequencies to speakers.
+                          
                         
                     </p>
                     <img src="./DigitalPiano/picOfBoard.jpg" alt="A Digilent Basys 3 Artix-7 Fpga Board" width="300">
@@ -29,7 +30,13 @@ document.write(`
                 <div>
                     <h2>Process</h2>
                     <p>
-                        Coming soon...
+                    The segment display uses time multiplexing that switches at a high
+                     speed that appears like a steady display to the human eye. Every
+                     clock cycle, a new display is MUXed. NOTE_IN selects via cases of
+                     NOTE_IN, a 9 bit buffer, where bits 8 through 5 specify the letter
+                     (A,B,C,D,E,F or G)  bits 4 through 1 specify the number, and the 
+                     last bit specifies if the note is sharp or not(1 is sharp 0 is not 
+                     sharp)
                     </p>
                     <img src="./DigitalPiano/picOfspec.jpg" alt="Waveform of a piece playing on the board" width="300">
                 </div>
@@ -43,10 +50,11 @@ document.write(`
                 <div>
                     <h2>Why</h2>
                     <p>
-                        Coming soon...
+                        Learned to code in VHDL to program an FPGA Board to play different 
+                        frequencies to emulate a instrument.  
                     </p>
                     <img src="./DigitalPiano/musicSheet.jpg" alt="Physical Simulation" width="300">
-                    <a href="" class="btn btn-primary">
+                    <a href="https://github.com/Mahib-Rahman/portfolioSite/blob/main/DigitalPiano/code.vhd" class="btn btn-primary">
                         View code
                     </a>
                 </div>
