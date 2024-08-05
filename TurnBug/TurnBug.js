@@ -30,13 +30,12 @@ document.write(`
                     <h2>Process</h2>
                     <p>
                         First and foremost, developed sketches of the robot,
-                        and thought about the mechanism of the overall movement.
-                        Then developed a detailed cad of the robot and started
-                        to print the parts needed in a 3D printer, ordered the 
-                        parts needed, and laser cut the base of the robot. 
-                        Then assembled the parts making modifications along the 
-                        way if needed. Finally wrote code in python to program 
-                        the moving parts and ended up with a walking robot. 
+                        and developed the mechanism of the overall movement.
+                        Then developed detailed cad andprinted
+                        the parts needed in a 3D printer. Identified and ordered any 
+                        parts needed, and assembled all the parts to the laser cut base of the robot. 
+                        Made modifications along the to the parts during assemblr 
+                        as needed. Wrote python scripts to program and optimize a walking robot. 
                     </p>
                     <img src="./TurnBug/glammourPic.jpg" alt="Waveform of a piece playing on the board" width="300">
                 </div>
